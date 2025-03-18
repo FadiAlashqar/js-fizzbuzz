@@ -11,4 +11,9 @@ for (let i = 0; i <= 100; i++) {
     else if (i % 5 == 0) {
         console.log("Buzz")
     }
+// assegno l'etichetta "FizzBuzz" ai multipli di 5 e 3
+else{
+    console.log("FizzBuzz")
+}
+
 }
